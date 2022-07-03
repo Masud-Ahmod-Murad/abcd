@@ -1,4 +1,4 @@
-img{
+skill{
     border: 20px;
     padding: 40px;
     background-color: aquamarine;
@@ -12,4 +12,11 @@ p{
 h1{
     text-align: justify;
     background-color: tomato;
+}
+box{
+    background-color: mediumorchid;
+    padding: 10%;
+    border-radius: 2px;
+    border-color: gold;
+    border: 30px;
 }
